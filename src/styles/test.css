@@ -1,0 +1,11 @@
+.test-bg {
+  background-color: rgba(142, 71%, 45%, 0.7);
+}
+
+:root {
+  --primary: 142 71% 45%;
+}
+
+.test-bg-var {
+  background-color: rgb(var(--primary));
+}

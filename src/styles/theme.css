@@ -1,0 +1,79 @@
+@layer base {
+  :root {
+    --bg: 0 0% 100%;
+    --fg: 240 10% 3.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 240 10% 3.9%;
+    --muted: 240 4.8% 95.9%;
+    --muted-foreground: 240 3.8% 46.1%;
+    --primary: 142 71% 45%;
+    --primary-foreground: 355.7 100% 97.3%;
+    --accent: 217.2 91.2% 59.8%;
+    --accent-foreground: 222.2 47.4% 11.2%;
+    --border: 240 5.9% 90%;
+    --ring: 142 71% 45%;
+
+    --radius: 0.5rem;
+    --header-height: 4rem;
+  }
+ 
+  .dark {
+    --bg: 240 10% 3.9%;
+    --fg: 0 0% 98%;
+    --card: 240 10% 3.9%;
+    --card-foreground: 0 0% 98%;
+    --muted: 240 3.7% 15.9%;
+    --muted-foreground: 240 5% 64.9%;
+    --primary: 142 71% 45%;
+    --primary-foreground: 0 0% 98%;
+    --accent: 217.2 91.2% 59.8%;
+    --accent-foreground: 0 0% 98%;
+    --border: 240 3.7% 15.9%;
+    --ring: 142 71% 45%;
+  }
+}
+
+/* Glass utility classes */
+@layer utilities {
+  .glass {
+    background-color: rgba(var(--bg) / 0.8);
+    @apply backdrop-blur-md border;
+    border-color: rgba(var(--border) / 0.5);
+  }
+  
+  .glass-accent {
+    background-color: rgba(var(--accent) / 0.1);
+    @apply backdrop-blur-md border;
+    border-color: rgba(var(--accent) / 0.2);
+  }
+
+  .focus-ring {
+    @apply focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2;
+    outline-color: rgb(var(--ring));
+  }
+  
+  /* Opacity utilities */
+  .bg-primary\/70 {
+    background-color: rgba(var(--primary), 0.7);
+  }
+  
+  .hover\:bg-primary:hover {
+    background-color: rgb(var(--primary));
+  }
+  
+  .bg-accent\/10 {
+    background-color: rgba(var(--accent), 0.1);
+  }
+  
+  .bg-background\/80 {
+    background-color: rgba(var(--bg), 0.8);
+  }
+  
+  .border-border\/50 {
+    border-color: rgba(var(--border), 0.5);
+  }
+  
+  .border-accent\/20 {
+    border-color: rgba(var(--accent), 0.2);
+  }
+}
