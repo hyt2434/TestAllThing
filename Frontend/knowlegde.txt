@@ -1,0 +1,2 @@
+1) Một số status code cơ bản: 200/201/400/401/404/500
+2) do not up .env to github
