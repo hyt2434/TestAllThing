@@ -1,0 +1,8 @@
+﻿column_name,dtype,non_null_count,missing_count,missing_pct,nunique
+promo_id_2,object,206,714447,99.97,2
+promo_id,object,276309,438344,61.34,50
+discount_amount,float64,714653,0,0.0,204449
+order_id,int64,714653,0,0.0,646945
+product_id,int64,714653,0,0.0,1598
+quantity,int64,714653,0,0.0,14
+unit_price,float64,714653,0,0.0,520785

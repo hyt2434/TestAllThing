@@ -1,0 +1,6 @@
+﻿column_name,value,count
+payment_method,credit_card,356352
+payment_method,paypal,97018
+payment_method,cod,96681
+payment_method,apple_pay,64763
+payment_method,bank_transfer,32131

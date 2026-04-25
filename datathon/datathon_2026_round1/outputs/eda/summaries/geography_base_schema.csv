@@ -1,0 +1,5 @@
+﻿column_name,dtype,non_null_count,missing_count,missing_pct,nunique
+city,object,39948,0,0.0,42
+district,object,39948,0,0.0,39
+region,object,39948,0,0.0,3
+zip,int64,39948,0,0.0,39948

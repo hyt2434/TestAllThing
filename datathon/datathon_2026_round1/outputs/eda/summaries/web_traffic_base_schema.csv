@@ -1,0 +1,8 @@
+﻿column_name,dtype,non_null_count,missing_count,missing_pct,nunique
+avg_session_duration_sec,float64,3652,0,0.0,1771
+bounce_rate,float64,3652,0,0.0,261
+date,datetime64[ns],3652,0,0.0,3652
+page_views,int64,3652,0,0.0,3620
+sessions,int64,3652,0,0.0,3447
+traffic_source,object,3652,0,0.0,6
+unique_visitors,int64,3652,0,0.0,3382

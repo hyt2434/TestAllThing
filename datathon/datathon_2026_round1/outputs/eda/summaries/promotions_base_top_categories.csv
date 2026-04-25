@@ -1,0 +1,31 @@
+﻿column_name,value,count
+promo_id,PROMO-0001,1
+promo_id,PROMO-0012,1
+promo_id,PROMO-0024,1
+promo_id,PROMO-0003,1
+promo_id,PROMO-0004,1
+promo_id,PROMO-0005,1
+promo_id,PROMO-0006,1
+promo_id,PROMO-0007,1
+promo_id,PROMO-0008,1
+promo_id,PROMO-0009,1
+promo_name,Spring Sale 2013,1
+promo_name,Mid-Year Sale 2015,1
+promo_name,Year-End Sale 2017,1
+promo_name,Fall Launch 2013,1
+promo_name,Year-End Sale 2013,1
+promo_name,Urban Blowout 2013,1
+promo_name,Rural Special 2013,1
+promo_name,Spring Sale 2014,1
+promo_name,Mid-Year Sale 2014,1
+promo_name,Fall Launch 2014,1
+promo_type,percentage,45
+promo_type,fixed,5
+applicable_category,All Categories,40
+applicable_category,Streetwear,5
+applicable_category,Outdoor,5
+promo_channel,all_channels,19
+promo_channel,online,13
+promo_channel,email,7
+promo_channel,social_media,6
+promo_channel,in_store,5

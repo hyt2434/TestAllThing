@@ -1,0 +1,14 @@
+﻿table_name,row_count,column_count,duplicate_rows,missing_cells
+customers_base,121930,7,0,0
+geography_base,39948,4,0,0
+inventory_base,60247,17,0,0
+order_items_base,714653,7,0,1152791
+orders_base,646945,8,0,0
+payments_base,646945,4,0,0
+products_base,2412,8,0,0
+promotions_base,50,10,0,0
+returns_base,39939,7,0,0
+reviews_base,113551,7,0,0
+sales_base,3833,3,0,0
+shipments_base,566067,4,0,0
+web_traffic_base,3652,7,0,0

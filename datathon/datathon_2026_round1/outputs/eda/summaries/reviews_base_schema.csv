@@ -1,0 +1,8 @@
+﻿column_name,dtype,non_null_count,missing_count,missing_pct,nunique
+customer_id,int64,113551,0,0.0,48676
+order_id,int64,113551,0,0.0,111369
+product_id,int64,113551,0,0.0,1412
+rating,int64,113551,0,0.0,5
+review_date,datetime64[ns],113551,0,0.0,3825
+review_id,object,113551,0,0.0,113551
+review_title,object,113551,0,0.0,18

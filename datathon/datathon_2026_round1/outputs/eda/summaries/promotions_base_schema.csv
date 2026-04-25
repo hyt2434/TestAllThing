@@ -1,0 +1,11 @@
+﻿column_name,dtype,non_null_count,missing_count,missing_pct,nunique
+applicable_category,object,50,0,0.0,3
+discount_value,float64,50,0,0.0,6
+end_date,datetime64[ns],50,0,0.0,50
+min_order_value,int64,50,0,0.0,5
+promo_channel,object,50,0,0.0,5
+promo_id,object,50,0,0.0,50
+promo_name,object,50,0,0.0,50
+promo_type,object,50,0,0.0,2
+stackable_flag,int64,50,0,0.0,2
+start_date,datetime64[ns],50,0,0.0,50

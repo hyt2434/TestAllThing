@@ -1,0 +1,9 @@
+﻿column_name,dtype,non_null_count,missing_count,missing_pct,nunique
+category,object,2412,0,0.0,4
+cogs,float64,2412,0,0.0,2381
+color,object,2412,0,0.0,10
+price,float64,2412,0,0.0,1990
+product_id,int64,2412,0,0.0,2412
+product_name,object,2412,0,0.0,2172
+segment,object,2412,0,0.0,8
+size,object,2412,0,0.0,4

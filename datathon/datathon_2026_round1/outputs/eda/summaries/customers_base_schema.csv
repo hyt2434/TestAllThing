@@ -1,0 +1,8 @@
+﻿column_name,dtype,non_null_count,missing_count,missing_pct,nunique
+acquisition_channel,object,121930,0,0.0,6
+age_group,object,121930,0,0.0,5
+city,object,121930,0,0.0,42
+customer_id,int64,121930,0,0.0,121930
+gender,object,121930,0,0.0,3
+signup_date,datetime64[ns],121930,0,0.0,3941
+zip,int64,121930,0,0.0,31491

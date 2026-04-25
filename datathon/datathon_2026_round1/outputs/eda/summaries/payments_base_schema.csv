@@ -1,0 +1,5 @@
+﻿column_name,dtype,non_null_count,missing_count,missing_pct,nunique
+installments,int64,646945,0,0.0,5
+order_id,int64,646945,0,0.0,646945
+payment_method,object,646945,0,0.0,5
+payment_value,float64,646945,0,0.0,595420

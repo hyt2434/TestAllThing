@@ -1,0 +1,25 @@
+﻿column_name,value,count
+city,cam pha,4398
+city,thai nguyen,4347
+city,phu ly,4243
+city,hanoi,4240
+city,ha long,4236
+city,bac ninh,4172
+city,hai phong,4170
+city,nam dinh,4169
+city,bac giang,4160
+city,ninh binh,4081
+gender,female,59640
+gender,male,57457
+gender,non-binary,4833
+age_group,25-34,36342
+age_group,35-44,31920
+age_group,45-54,23172
+age_group,18-24,17039
+age_group,55+,13457
+acquisition_channel,organic_search,36450
+acquisition_channel,social_media,24448
+acquisition_channel,paid_search,24285
+acquisition_channel,email_campaign,14674
+acquisition_channel,referral,12270
+acquisition_channel,direct,9803

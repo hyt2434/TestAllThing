@@ -1,0 +1,5 @@
+﻿column_name,dtype,non_null_count,missing_count,missing_pct,nunique
+delivery_date,datetime64[ns],566067,0,0.0,3831
+order_id,int64,566067,0,0.0,566067
+ship_date,datetime64[ns],566067,0,0.0,3831
+shipping_fee,float64,566067,0,0.0,1856

@@ -1,0 +1,16 @@
+﻿column_name,value,count
+return_id,RET-000001,1
+return_id,RET-000010,1
+return_id,RET-000021,1
+return_id,RET-000003,1
+return_id,RET-000004,1
+return_id,RET-000005,1
+return_id,RET-000006,1
+return_id,RET-000007,1
+return_id,RET-000008,1
+return_id,RET-000012,1
+return_reason,wrong_size,13967
+return_reason,defective,8020
+return_reason,not_as_described,7035
+return_reason,changed_mind,6931
+return_reason,late_delivery,3986
